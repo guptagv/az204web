@@ -1,0 +1,7 @@
+C:\Users\GAURAVGUPTA\Desktop\az204 labs\webapplab1\bin\Release\net9.0\publish\webapplab1.exe
+C:\Users\GAURAVGUPTA\Desktop\az204 labs\webapplab1\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\GAURAVGUPTA\Desktop\az204 labs\webapplab1\bin\Release\net9.0\publish\appsettings.json
+C:\Users\GAURAVGUPTA\Desktop\az204 labs\webapplab1\bin\Release\net9.0\publish\webapplab1.dll
+C:\Users\GAURAVGUPTA\Desktop\az204 labs\webapplab1\bin\Release\net9.0\publish\webapplab1.deps.json
+C:\Users\GAURAVGUPTA\Desktop\az204 labs\webapplab1\bin\Release\net9.0\publish\webapplab1.runtimeconfig.json
+C:\Users\GAURAVGUPTA\Desktop\az204 labs\webapplab1\bin\Release\net9.0\publish\webapplab1.pdb
